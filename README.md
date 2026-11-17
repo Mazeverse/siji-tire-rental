@@ -1,12 +1,11 @@
-# 시지 타이어렌탈 랜딩페이지
+# 시지 타이어렌탈 안내 랜딩페이지
 
-대구 수성구 시지 지역 고객을 위한 넥센타이어 경산점 타이어렌탈 상담 안내 정적 사이트입니다.
+GitHub → Vercel 정적 HTML 사이트.
 
-## 배포
-GitHub 저장소 `siji-tire-rental`에 파일을 업로드하고 Vercel에서 Import Project → Other → Deploy 하세요. 빌드 명령어는 필요 없습니다.
+- URL: https://siji-tire-rental.vercel.app/
+- 네이버 사이트 인증 코드 반영
+- 구글 사이트 인증 코드 유지
+- 타이어 이모지 대신 인라인 SVG 적용 (글꼴 미지원 네모 문제 해결)
+- robots.txt 및 sitemap.xml 포함
 
-## 배포 후
-실제 Vercel 주소가 확정되면 canonical, og:url, sitemap.xml을 추가하세요. 네이버 서치어드바이저 인증 코드도 발급 후 추가하세요.
-
-## 운영 정보
-전화: 053-852-2577 / 주소: 경상북도 경산시 원효로 112, 아람빌딩 1층. 배포 전 실제 운영 정보 확인 권장.
+저장소 루트에 파일을 업로드하면 Vercel에서 자동 재배포됩니다.

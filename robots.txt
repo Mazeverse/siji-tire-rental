@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://siji-tire-rental.vercel.app/sitemap.xml
